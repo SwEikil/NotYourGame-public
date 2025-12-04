@@ -3,7 +3,7 @@
 ## EN
 
 **Author:** [SwEikil](https://github.com/SwEikil)  
-**Repository:** https://github.com/SwEikil/NotYourGame
+**Repository:** https://github.com/SwEikil/NotYourGame-public
 
 ---
 
@@ -40,7 +40,7 @@ If you have questions or suggestions, feel free to write to **sweikil0@gmail.com
 ## UA
 
 **Автор:** [SwEikil](https://github.com/SwEikil)  
-**Репозиторій:** https://github.com/SwEikil/NotYourGame
+**Репозиторій:** https://github.com/SwEikil/NotYourGame-public
 
 ---
 
